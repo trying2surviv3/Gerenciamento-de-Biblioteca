@@ -1,0 +1,8 @@
+sql
+	create table Livro(
+	id int,
+	titulo VARCHAR (150),
+	isbn VARCHAR (20),
+	ano_publicacao INT,
+	ativo BOOLEAN
+	);
