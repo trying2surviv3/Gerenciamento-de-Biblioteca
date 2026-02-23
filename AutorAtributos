@@ -1,9 +1,0 @@
-sql
-create table Autor(
-id INT,
-nome VARCHAR(120),
-nacionalidade VARCHAR(80),
-data_nascimento DATE,
-ativo BOOLEAN
-);
-
