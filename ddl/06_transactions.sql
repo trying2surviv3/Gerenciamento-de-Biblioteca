@@ -10,6 +10,7 @@ CREATE TABLE loans (
   created_at TIMESTAMP,
   updated_at TIMESTAMP
 );
+.
 
 CREATE TABLE loan_items (
   id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
