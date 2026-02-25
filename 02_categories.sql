@@ -6,3 +6,6 @@ CREATE TABLE categories (
   created_at TIMESTAMP,
   updated_at TIMESTAMP
 )
+
+
+outro create table
